@@ -5,5 +5,5 @@
 # Reconocedor de Frutas
 
 
-![ruta](<.ReconocedorFrutasTL/Resultado.PNG>) 
+![ruta](<./ReconocedorFrutasTL/Resultado.PNG>) 
 
